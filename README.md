@@ -50,7 +50,7 @@ You can deploy the website with:
 ## Contact
 
 For questions or suggestions, please reach out:
-- **Email:** info@pcgchurch.org
+- **Email:** oc1343677@gmail.com
 - **Phone:** (+233) 59145 9618
 
 ---

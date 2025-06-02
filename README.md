@@ -12,16 +12,9 @@ Welcome to the PCG Church website! This is a simple, responsive website designed
 
 ## How to Use
 
-1. **Clone the Repository:**
-```bash
-    git clone https://github.com/your-repo/pcg-church-website.git
-```
-
 2. **Open in Browser:**
 - Simply open the `index.html` file in your favorite browser.
 
-3. **Hosting the Website:**
-- Use platforms like **GitHub Pages**, **Netlify**, or **Vercel** for free hosting.
 
 ## File Structure
 ```
@@ -33,19 +26,6 @@ Welcome to the PCG Church website! This is a simple, responsive website designed
 └── README.md           # Project documentation
 ```
 
-## Customization
-
-- **Quotes:** Add more quotes in the `quotes` array in the JavaScript section.
-- **Sermon Videos:** Replace the YouTube links in the sermon section.
-- **Events:** Add or remove event cards in the `events` section.
-
-## Deployment
-
-You can deploy the website with:
-
-- **GitHub Pages:** Push to GitHub and enable Pages in repo settings.
-- **Netlify:** Drag and drop your project folder.
-- **Vercel:** Connect your GitHub repo and deploy with one click.
 
 ## Contact
 
